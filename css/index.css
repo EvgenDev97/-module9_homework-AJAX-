@@ -1,0 +1,21 @@
+.back{
+    background-color: gray;
+    max-width: 400px;
+    height: 200px;
+}
+
+.form{
+    position: relative;
+    top:50px;
+}
+
+.button{
+    background-color: brown;
+    width: 100px;
+    height: 50px;
+}
+
+.imgWrap{
+    background-color: red;
+    max-width: 400px;
+}

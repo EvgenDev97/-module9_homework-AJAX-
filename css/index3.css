@@ -1,0 +1,16 @@
+.back{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(197, 197, 237);
+}
+
+.card {
+	width: 300px;
+	margin: 30px;
+}
+
+.card-image {
+	display: block;
+	width: 250px;
+	height: 200px;
+}
